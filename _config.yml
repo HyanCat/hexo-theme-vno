@@ -1,6 +1,6 @@
 menu:
-  归档: /archives
-  关于: /about
+  归档: /archives/
+  关于: /about/
 rss: /atom.xml
 description: 我是小明
 social:
