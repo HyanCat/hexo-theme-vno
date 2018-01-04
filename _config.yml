@@ -1,28 +1,28 @@
 menu:
   归档: /archives
+  关于: /about
 rss: /atom.xml
-description:
+description: 我是小明
 social:
-  weibo: http://weibo.com/ikeson
-  github: https://github.com/skx926
+  github: https://github.com/HyanCat
+  weibo: http://weibo.com/liuguangbujiashao
   stack_overflow:
   facebook:
-  twitter: https://twitter.com/skx926
-  google_plus: https://plus.google.com/118328736821069549236
-  instagram: https://www.instagram.com/skx926
+  twitter: https://twitter.com/HyanCat
+  google_plus:
+  instagram:
 
 page_comment: true
-logo: /images/logo.png
+logo: /images/avatar.jpeg
 background:
-  cover: /images/background-cover.jpg
+  cover: https://pico.oss-cn-hangzhou.aliyuncs.com/blog/dtwvg.jpeg
   color: cover-disabled
 
 fancybox: true
 
-cloudtie_productkey: 7e456de65fb945698c448c72191454ce
+cloudtie_productkey:
 
-google_analytics: UA-73055515-1
+google_analytics:
 
-favicon: /images/favicon.png
-
-apple_touch_icon: /images/apple-touch-icon.png
+favicon: /images/cat.png
+apple_touch_icon: /images/cat.png
